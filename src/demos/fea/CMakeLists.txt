@@ -35,6 +35,8 @@ SET(FEA_DEMOS_IRR_MKL
 	demo_FEAabaqus_wheel
 	demo_FEAabaqus_wheel4
 demo_4ToroidalTires
+demo_FEAancfHMMWV
+demo_FEAancfHMMWV_LuGre
 )
 
 # List all FEA demos that use Irrlicht, Matlab, and MKL
